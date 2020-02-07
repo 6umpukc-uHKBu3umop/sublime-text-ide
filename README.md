@@ -8,3 +8,15 @@ git clone https://github.com/6umpukc-uHKBu3umop/sublime-text-ide.git && cd subli
 ```
 
 3) Подождать загрузки и установки плагинов
+
+---
+
+4)
+
+```
+mkdir ~/bin/eslint
+cd ~/bin/eslint
+npm i eslint
+npm i eslint-plugin-html
+npm i eslint-plugin-vue
+```
