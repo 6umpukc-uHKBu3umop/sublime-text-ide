@@ -1,22 +1,24 @@
 
-1) Установить https://packagecontrol.io/installation
+1) Установить Sublime Text 
 
-2) Скопировать настройки
+```
+sudo snap install sublime-text --classic
+```
+
+2) Установить Sublime Merge
+
+```
+sudo snap install sublime-merge --classic
+```
+
+3) Установить Package Control
+
+https://packagecontrol.io/installation
+
+4) Скопировать настройки
 
 ```
 git clone https://github.com/6umpukc-uHKBu3umop/sublime-text-ide.git && cd sublime-text-ide && cp -r Packages/User/ ~/.config/sublime-text-3/Packages/
 ```
 
-3) Подождать загрузки и установки плагинов
-
----
-
-4)
-
-```
-mkdir ~/bin/eslint
-cd ~/bin/eslint
-npm i eslint
-npm i eslint-plugin-html
-npm i eslint-plugin-vue
-```
+5) Подождать загрузки и установки плагинов
