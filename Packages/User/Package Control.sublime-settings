@@ -22,7 +22,7 @@
 		"RawLineEdit",
 		"SublimeLinter",
 		"SublimeLinter-contrib-perl",
-		"SublimeLinter-jshint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-php",
 		"Terminus",
 		"Vue Syntax Highlight"
