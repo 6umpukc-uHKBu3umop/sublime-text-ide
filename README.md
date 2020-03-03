@@ -58,7 +58,7 @@ noverify \
 	--exclude='vendor/|tests/|.updates/' \
 	--cache-dir="./upload/tmp/.noverify/" \
 	--exclude-checks unused,mixedArrayKeys,arraySyntax,phpdoc,phpdocLint,phpdocType \
-	--full-analysis-files=bitrix/modules/citrus.arealtypro/lib/export/vkontakte.php \
+	--full-analysis-files=bitrix/modules/my.solution/lib/export/vkontakte.php \
 	bitrix/modules/
 
 ```
