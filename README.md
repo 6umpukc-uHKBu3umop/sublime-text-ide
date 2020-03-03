@@ -29,8 +29,10 @@ git clone https://github.com/6umpukc-uHKBu3umop/sublime-text-ide.git && cd subli
 
 1) Установить https://github.com/VKCOM/noverify/blob/master/docs/install.md
 
-`sudo snap install go --classic`
-`go get -u github.com/VKCOM/noverify`
+```
+sudo snap install go --classic
+go get -u github.com/VKCOM/noverify
+```
 
 2) Добавить в ~/.profile и перезагрузится/перелогинится
 
@@ -46,7 +48,7 @@ fi
 
 4) Скопировать кастомные из `sublime-text-ide/phpstorm-stubs/bitrix`
 
-## Запуск проверки файла
+## Запуск проверки php-файлов
 
 https://github.com/VKCOM/noverify/blob/master/docs/linter-usage.md
 
