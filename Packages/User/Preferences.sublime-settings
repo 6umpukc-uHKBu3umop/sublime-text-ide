@@ -24,5 +24,6 @@
 	"sublime_merge_path": "/snap/bin/sublime-merge",
 	"theme": "ayu-mirage.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"update_check": false
+	"update_check": false,
+	"detect_indentation": false
 }
