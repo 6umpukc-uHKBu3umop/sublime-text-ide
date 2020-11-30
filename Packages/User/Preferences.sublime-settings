@@ -21,9 +21,8 @@
 		"*.min.js",
 		"*.min.css",
 		"*.map.js",
+		"*.js.map",
 		"*.bundle.js",
-		"*.bundle.js.map",
-		"*.bundle.min.js.map",
 		"*.bundle.css"
 	],
 	"font_size": 12,
